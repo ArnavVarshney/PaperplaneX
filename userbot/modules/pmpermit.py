@@ -18,7 +18,7 @@ from userbot.events import register, errors_handler
 
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = (
-    "`Heyy there! I am Mayur's userbot.\n\n`"
+    "`Heyy there! I am Arnav's userbot.\n\n`"
     "`Don't hesitate. This is an automated mesaage.\n\n`"
     "`My master haven't approved you to PM yet.`"
     "`Please wait for my master to look in, He mostly approve PMs unless you are retarded.\n\n`"
