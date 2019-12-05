@@ -7,6 +7,5 @@
 <h5 align="center">The easiest way to deploy this derpfest!</h5>
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ArnavVarshney/PaperplaneX/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 <p align="center">&nbsp;</p>
-<p align="center">&nbsp;</p>
 <h2 align="center">License</h2>
 <p align="center"><a href="https://github.com/ArnavVarshney/PaperplaneX/blob/sql-extended/LICENSE">Raphielscape Public License</a> - Version 1.c, June 2019</p>
