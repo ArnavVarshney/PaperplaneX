@@ -62,6 +62,8 @@ RUN python3 -m ensurepip \
 #
 # Clone repo and prepare working directory
 #
+RUN git config user.name "varshney.arnav@gmail.com"
+RUN git config user.password "San1@var2"
 RUN git clone -b master https://github.com/ArnavVarshney/PaperplaneX /root/userbot
 RUN mkdir /root/userbot/bin
 WORKDIR /root/userbot/
