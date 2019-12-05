@@ -1,4 +1,5 @@
 aiohttp
+ssh-client
 wheel
 aria2p
 async_generator
